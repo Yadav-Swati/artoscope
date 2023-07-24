@@ -55,7 +55,7 @@ const Header = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5 }}
           >
-            <h1 className="text-white text-2xl font-semibold">KaleidoscopExpressions</h1>
+            <h1 className="text-white text-2xl font-semibold">artoscope</h1>
           </motion.div>
         </div>
         <motion.div
@@ -77,7 +77,7 @@ const Header = () => {
               <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center mr-4">
                 <FiUser className="text-purple-800 text-xl" />
               </div>
-              <h2 className="text-lg font-semibold">Hey, Vaishnavi</h2>
+              <h2 className="text-lg font-semibold">Hey, Swati</h2>
             </div>
             <ul className="space-y-2">
               <li>
