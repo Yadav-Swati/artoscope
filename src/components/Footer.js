@@ -17,7 +17,7 @@ const Footer = () => {
             <FiHeart className="text-red-500 text-2xl animate-pulse mr-2" />
           </motion.div>
           <h1 className="text-white text-lg font-semibold">
-            Made with Love using React JS and Tailwind CSS by <span className='text-purple-500 hover:text-red-500'><a href='https://github.com/vaishnavi-3969'>Vaishnavi Kale</a></span> & <span className='text-purple-500 hover:text-red-500'><a href="https://github.com/Tejaswinireddyy">Tejaswini Reddy</a></span> for Techtogether Digital
+            Made with Love using React JS and Tailwind CSS by <span className='text-purple-500 hover:text-red-500'><a href='https://github.com/Yadav-Swati'>Swati Yadav</a></span> 
           </h1>
         </div>
         <div className="grid grid-cols-3 gap-4 text-white">
@@ -81,7 +81,7 @@ const Footer = () => {
           </motion.a>
         </div>
         <p className="text-center text-gray-500 mt-6">
-          &copy; {new Date().getFullYear()} KaleidoscopExpressions. All rights reserved.
+          &copy; {new Date().getFullYear()} artoscope. All rights reserved.
         </p>
       </div>
     </footer>
