@@ -87,7 +87,7 @@ const Home = () => {
                         <h1 className="text-3xl md:text-6xl font-bold text-yellow-300 bg-gradient-to-r from-purple-900 to-indigo-800">
                             <Typewriter
                                 options={{
-                                    strings: ['KaleidoscopExpressions'],
+                                    strings: ['Artoscope'],
                                     autoStart: true,
                                     loop: true,
                                     delay: 80,
@@ -95,9 +95,9 @@ const Home = () => {
                                 }}
                                 onInit={(typewriter) => {
                                     typewriter
-                                        .typeString('<span class="glow">Kaleidoscop</span>')
+                                        .typeString('<span class="glow">Arto</span>')
                                         .pauseFor(1000)
-                                        .typeString('<span class="sparkle">Expressions</span>')
+                                        .typeString('<span class="sparkle">scope</span>')
                                         .start();
                                 }}
                             />
